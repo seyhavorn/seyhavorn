@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 👋 Hi, I’m @seyhavorn
+- 👀 I’m a Full Stack Web Developer from Cambodia
+- 💞️ I’m looking to collaborate on the new experience
+- 📫 How to reach me to the top like a professional
 
 <!--
 **seyhavorn/seyhavorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
