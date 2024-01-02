@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m Seyha VORN
 - 👀 I’m a Full Stack Web Developer from Cambodia
+- 🔭 Currently, I'm working with Laravel, Angular, Spring Boot
 - 💞️ I’m looking to collaborate on the new experience
 - 📫 How to reach me to the top like a professional
 
