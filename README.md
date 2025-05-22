@@ -1,22 +1,45 @@
-### Hi there 👋
-- 👋 Hi, I’m Seyha VORN
-- 👀 I’m a Full Stack Web Developer from Cambodia
-- 🔭 Currently, I'm working with Laravel, Angular, Spring Boot
-- 💞️ I’m looking to collaborate on the new experience
-- 📫 How to reach me to the top like a professional
+# Hi there 👋, I'm Seyha VORN
 
-<!--
-**seyhavorn/seyhavorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Full Stack Web Developer from Cambodia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working With
+- **Backend:** Java Spring Boot, Laravel, NestJS  
+- **Frontend:** Angular, Vue.js  
+- **Architecture:** Microservices  
+- **DevOps:** AWS (EC2, Elastic Beanstalk)  
+- **Database:** MySQL, PostgreSQL  
+- **Tools:** Git, Docker, VS Code
+
+---
+
+### 🌱 What I'm Learning
+- Advanced microservice architecture  
+- Cloud-native application development  
+- Continuous integration & delivery (CI/CD)
+
+---
+
+### 💞️ Looking to Collaborate On
+- Scalable microservice projects  
+- Innovative full-stack applications  
+- Open source tools and frameworks
+
+---
+
+### 📫 How to Reach Me
+- **LinkedIn:** [linkedin.com/in/seyhavorn](https://www.linkedin.com/in/seyhavorn)  
+- **Email:** vornseyha4758@gmail.com  
+- **Twitter:** [@seyhavorn](https://twitter.com/seyhavorn)
+
+---
+
+### ⚡ Fun Fact
+I love turning complex ideas into smooth, efficient code and learning new technologies every day!
+
+---
+
+Thanks for stopping by! Let’s connect and build something amazing 🚀
+
 
